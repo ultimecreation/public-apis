@@ -69,6 +69,7 @@ API | Description | Auth | HTTPS | CORS |
 | [RandomFox](https://randomfox.ca/floof/) | Random pictures of foxes | No | Yes | No |
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption | No | Yes | Unknown |
 | [Shibe.Online](http://shibe.online/) | Random pictures of Shibu Inu, cats or birds | No | No | No |
+| [pokeapi.co](https://pokeapi.co/) | Listing of pokemons
 
 ### Anime
 API | Description | Auth | HTTPS | CORS |
